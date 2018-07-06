@@ -25,7 +25,7 @@ public class MybatisFirst {
 		//mybatis配置文件
 		String resource = "SqlMapConfig.xml";
 		
-		//得到配置文件流
+		//得到配置文件流...
 		InputStream inputStream = Resources.getResourceAsStream(resource);
 		
 		
